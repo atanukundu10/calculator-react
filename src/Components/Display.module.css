@@ -1,0 +1,11 @@
+.inputBox{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    width: 80%;
+    height: 35px;
+    font-size: 30px;
+    text-align: right;
+}
